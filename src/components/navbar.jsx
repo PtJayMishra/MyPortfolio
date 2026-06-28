@@ -46,7 +46,7 @@ const Navbar = ({ setIsOpen }) => {
           <a href="https://github.com/PtJayMishra" target="_blank" rel="noopener noreferrer" className="hover:text-icon cursor-pointer">GitHub</a>
         </li>
         <li>
-          <a href="https://drive.google.com/file/d/1j-KvRitjEDocZRu3KLttHRaD3XKQwgP9/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-icon cursor-pointer">Read CV</a>
+          <a href="https://drive.google.com/file/d/177CJHJPd_lltftXzUUuo7ZKxIUlxyy3T/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="hover:text-icon cursor-pointer">Read CV</a>
         </li>
         <br />
       </ul>

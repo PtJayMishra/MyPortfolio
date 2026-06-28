@@ -12,7 +12,7 @@ const Projects = () => {
       description:  <p> Designed and developed a fully responsive personal portfolio website to showcase professional skills, projects, and contact information using modern web technologies, ensuring compatibility across desktop and mobile devices. 
  Deployed the portfolio live on Vercel with optimized performance, enabling a professional online presence with reliable uptime and fast loading speeds.</p>,
       link: "#",
-      github: "https://github.com/PtJayMishra/Portfolio",
+      github: "https://github.com/PtJayMishra/MyPortfolio",
       color: "rgba(147, 197, 253, 0.3)", // Light blue
     },
     {
